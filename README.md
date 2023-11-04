@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kadiralemdr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kadiralemdar1)
-[![WebSitesi](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://kadiralemdar.com.tr)
+![Static Badge](https://img.shields.io/badge/:badgeContent?label=Web%20Sitesi&labelColor=darkyellow&color=white&link=https%3A%2F%2Fkadiralemdar.com.tr%2F)
 
 
 # 💻 Tech Stack:
